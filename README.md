@@ -12,3 +12,5 @@
 The Assignment week 8 isn't finished right! everything went well, until i had to install the package tidyr. I tried multiple things(searched via google), but it didn't work. In the end the kernel died. I have every code etc. written down, but I couldnt't run it because tidyr didn't work. 
 
 [Final Python assignment (resit)](https://github.com/RemcoWilbers/Assignments/blob/master/Final%20Python%20Assignment.ipynb)
+
+[Final R assignment (resit)](https://github.com/RemcoWilbers/Assignments/blob/master/Final%20R%20Assignment.ipynb)
